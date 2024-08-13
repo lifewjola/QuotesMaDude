@@ -1,0 +1,44 @@
+{
+  "angry": [
+    "Anger is a wind which blows out the lamp of the mind.",
+    "Speak when you are angry and you will make the best speech you will ever regret.",
+    "The greatest remedy for anger is delay.",
+    "Never do anything when you are in a temper, for you will do everything wrong.",
+    "Holding onto anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned."
+  ],
+  "sad": [
+    "Tears are words that need to be written.",
+    "Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.",
+    "The word ‘happy’ would lose its meaning if it were not balanced by sadness.",
+    "Sadness flies away on the wings of time.",
+    "The pain never really goes away; you just elevate and get used to it by growing stronger."
+  ],
+  "in_love": [
+    "Love is composed of a single soul inhabiting two bodies.",
+    "Love is a friendship set to music.",
+    "The best thing to hold onto in life is each other.",
+    "To love and be loved is to feel the sun from both sides.",
+    "In the end, the love you take is equal to the love you make."
+  ],
+  "confused": [
+    "In the middle of chaos lies opportunity.",
+    "Confusion is the welcome mat at the door of creativity.",
+    "The man who moves a mountain begins by carrying away small stones.",
+    "The road to enlightenment is long and difficult, and you should try not to forget snacks and magazines.",
+    "Not all those who wander are lost."
+  ],
+  "tired": [
+    "Fatigue is the best pillow.",
+    "The best cure for the body is a quiet mind.",
+    "To rest is not a defeat, but a strategic pause.",
+    "Sometimes the most productive thing you can do is rest.",
+    "In an exhausted mind, there is no room for creativity."
+  ],
+  "happy": [
+    "Happiness is a direction, not a place.",
+    "The most simple things can bring the most happiness.",
+    "For every minute you are angry, you lose sixty seconds of happiness.",
+    "Happiness depends upon ourselves.",
+    "A joyful heart is the inevitable result of a heart burning with love."
+  ]
+}
